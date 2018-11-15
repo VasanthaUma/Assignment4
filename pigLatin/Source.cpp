@@ -1,4 +1,4 @@
-/* Assignment -4 PIG LATIN */
+/* Assignment -4 PIG LATIN  */
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include<string.h>
